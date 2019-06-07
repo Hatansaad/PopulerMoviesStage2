@@ -1,0 +1,28 @@
+<resources>
+    <string name="app_name">Popular Movies App</string>
+    <string name="sort_by_key">sort_by_key</string>
+    <string name="most_popular">popular</string>
+    <string name="top_rated">top_rated</string>
+    <string name="sort_by">Sort By</string>
+    <string name="best_movies_pref">best_movies</string>
+    <string name= "favorite_movies_pref">favorite</string>
+    <string name="no_connection">There is no internet connection</string>
+
+    <string-array name="entry_array">
+        <item>Most Popular</item>
+        <item>Top Rated</item>
+        <item>Favorite</item>
+    </string-array>
+
+    <string-array name="values_array">
+        <item>most_popular</item>
+        <item>top_rated</item>
+        <item>favorite</item>
+    </string-array>
+
+    <string name="json_results_array" translatable="false">results</string>
+    <string name="trailers">Trailers</string>
+    <string name="reviews">Reviews</string>
+    <string name="author">Author here</string>
+    <string name="content">Content here</string>
+</resources>
